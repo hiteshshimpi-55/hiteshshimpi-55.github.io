@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hiteshshimpi-55.github.io/sitemap-index.xml
+Host: https://hiteshshimpi-55.github.io
