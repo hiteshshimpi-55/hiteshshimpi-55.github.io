@@ -187,7 +187,6 @@ const StyledProject = styled.div`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        background-color: var(--navy);
         mix-blend-mode: screen;
       }
     }
@@ -197,7 +196,7 @@ const StyledProject = styled.div`
       vertical-align: middle;
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
+      // mix-blend-mode: multiply;
       filter: grayscale(100%) contrast(1) brightness(90%);
       @media (max-width: 600px) {
         object-fit: cover;
